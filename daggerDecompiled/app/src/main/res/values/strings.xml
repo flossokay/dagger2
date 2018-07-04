@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">dagger-decompiled-example</string>
+    <string name="welcome">Hello, %s!</string>
+    <string name="display_metrics">Width: %d \nHeight: %d</string>
+</resources>
